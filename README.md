@@ -22,17 +22,26 @@ This app support three version of whatsapp.
 Features of All Status Save App ([whatsapp status downloader online free](https://play.google.com/store/apps/details?id=com.AppAuxin.whatsapp_status_downloader))
 
 ☆ Easy to use.
+
 ☆ Clean and simple tab view.
+
 ☆ Images & videos in different tabs
+
 ☆ Support WA Status, WA Business status, and GB whatsapp Status
+
 ☆ Play videos offline with the built-in video player
+
 ☆ View photos offline with the built-in gallery
+
 ☆ Easy to share or repost downloaded videos and photos of WhatsApp Status
+
 ☆ Easy to share or repost without downloading videos and photos of WhatsApp Status
+
 ☆ Save to watch later if you’re in a hurry and busy.
+
 ☆ Small size and lightweight
 
 Status App for WhatsApp: Save Images & Videos is a dedicated video saver and story downloader for downloading all WhatsApp Status videos and images. Downloader App with simple steps, you can download status videos and status images to your device and save photos and videos as long as you want. The Status Download for WhatsApp and Video Collector is a storage house for storing stories, photos, and new states that provides the facility to reuse the status in terms of looking again and reposting on the status. Best save images and video status you don't need to ask someone to send. Status Download for WhatsApp from the state store, you can delete any unwanted images or videos. The built-in video player can play all the videos you saved. So it is really a good download tool for WhatsApp status and deserves to be installed and try
 
 Free status saver - download videos & images
-download status saver for whatsapp
+[download status saver for whatsapp](https://play.google.com/store/apps/details?id=com.AppAuxin.whatsapp_status_downloader)
