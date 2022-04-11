@@ -1,4 +1,4 @@
-# Whatsapp-status-downloader
+[# Whatsapp-status-downloader](https://play.google.com/store/apps/details?id=com.AppAuxin.whatsapp_status_downloader)
 
 You can download photos and videos of your friends' WhatsApp status. This allows you to save whatsapp status from whatspp, Whatsapp business and GB Whatsapp apps.
 
