@@ -6,8 +6,6 @@ Very good status Downloader save any status. Status download app can help you do
 
 Install this [Status Images & Videos Downloader](https://play.google.com/store/apps/details?id=com.AppAuxin.whatsapp_status_downloader) and save your favorite statuses now！
 
-https://play.google.com/store/apps/details?id=com.AppAuxin.whatsapp_status_downloader
-
 How to use [whatsapp status saver status download app](https://play.google.com/store/apps/details?id=com.AppAuxin.whatsapp_status_downloader)
 
 1. Open WhatsApp and view your friends' story statuses.
