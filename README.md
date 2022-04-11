@@ -46,4 +46,4 @@ Status App for WhatsApp: Save Images & Videos is a dedicated video saver and sto
 Free status saver - download videos & images
 [download status saver for whatsapp](https://play.google.com/store/apps/details?id=com.AppAuxin.whatsapp_status_downloader)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/AppAuxin/Whatsapp-status-downloader/blob/main/img/1.png)
