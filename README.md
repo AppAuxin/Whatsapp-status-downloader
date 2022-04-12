@@ -1,4 +1,5 @@
 # Whatsapp-status-downloader
+[https://play.google.com/store/apps/details?id=com.AppAuxin.whatsapp_status_downloader](Whatsapp-status-downloader)
 
 Using this [Whatsapp status saver](https://play.google.com/store/apps/details?id=com.AppAuxin.whatsapp_status_downloader) You can download photos and videos of your friends' WhatsApp status. This allows you to save whatsapp status from whatsApp, Whatsapp business and GB Whatsapp apps. Status Saver App for WhatsApp is a little package to save status downloader to the gallery. An app that can easily save video status and photo status quickly. So this Images & Videos Status Downloading app is definitely what you want!
 
